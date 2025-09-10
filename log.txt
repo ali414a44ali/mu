@@ -1,0 +1,212 @@
+[09-Sep-25 23:09:28 - INFO] - ميــوزك بـغــداد - جـارِ الاتصـال بقاعـدة البيانـات . . .
+[09-Sep-25 23:09:28 - INFO] - ميــوزك بـغــداد - تم الاتصـال بقاعـدة البيانـات ...✓
+[09-Sep-25 23:09:28 - INFO] - ميــوزك بـغــداد - تم تحـديث السـورس ...✓
+[09-Sep-25 23:09:28 - INFO] - ميــوزك زدثــون - Git Client Found [VPS DEPLOYER]
+[09-Sep-25 23:09:28 - INFO] - ZelzalMusic.misc - Local Database Initialized.
+[09-Sep-25 23:09:28 - INFO] - ZelzalMusic.core.bot - Starting Bot
+[09-Sep-25 23:11:36 - INFO] - ميــوزك بـغــداد - جـارِ الاتصـال بقاعـدة البيانـات . . .
+[09-Sep-25 23:11:36 - INFO] - ميــوزك بـغــداد - تم الاتصـال بقاعـدة البيانـات ...✓
+[09-Sep-25 23:11:36 - INFO] - ميــوزك بـغــداد - تم تحـديث السـورس ...✓
+[09-Sep-25 23:11:36 - INFO] - ميــوزك زدثــون - Git Client Found [VPS DEPLOYER]
+[09-Sep-25 23:11:36 - INFO] - ZelzalMusic.misc - Local Database Initialized.
+[09-Sep-25 23:11:36 - INFO] - ZelzalMusic.core.bot - Starting Bot
+[09-Sep-25 23:11:37 - INFO] - ZelzalMusic.misc - Sudoers Loaded.
+[09-Sep-25 23:13:29 - INFO] - ميــوزك بـغــداد - جـارِ الاتصـال بقاعـدة البيانـات . . .
+[09-Sep-25 23:13:29 - INFO] - ميــوزك بـغــداد - تم الاتصـال بقاعـدة البيانـات ...✓
+[09-Sep-25 23:13:29 - INFO] - ميــوزك بـغــداد - تم تحـديث السـورس ...✓
+[09-Sep-25 23:13:29 - INFO] - ميــوزك زدثــون - Git Client Found [VPS DEPLOYER]
+[09-Sep-25 23:13:29 - INFO] - ZelzalMusic.misc - Local Database Initialized.
+[09-Sep-25 23:13:29 - INFO] - ZelzalMusic.core.bot - Starting Bot
+[09-Sep-25 23:13:31 - INFO] - ZelzalMusic.misc - Sudoers Loaded.
+[09-Sep-25 23:15:45 - INFO] - ميــوزك بـغــداد - جـارِ الاتصـال بقاعـدة البيانـات . . .
+[09-Sep-25 23:15:45 - INFO] - ميــوزك بـغــداد - تم الاتصـال بقاعـدة البيانـات ...✓
+[09-Sep-25 23:15:45 - INFO] - ميــوزك بـغــداد - تم تحـديث السـورس ...✓
+[09-Sep-25 23:15:45 - INFO] - ميــوزك زدثــون - Git Client Found [VPS DEPLOYER]
+[09-Sep-25 23:15:45 - INFO] - ZelzalMusic.misc - Local Database Initialized.
+[09-Sep-25 23:15:45 - INFO] - ZelzalMusic.core.bot - Starting Bot
+[09-Sep-25 23:15:46 - INFO] - ZelzalMusic.misc - Sudoers Loaded.
+[09-Sep-25 23:15:46 - ERROR] - ZelzalMusic.core.bot - Bot cannot write to the log group: Telegram says: [403 PEER_ID_INVALID] - The provided peer id is invalid. 
+[09-Sep-25 23:15:46 - ERROR] - ZelzalMusic.core.bot - Failed to send message in log group: Telegram says: [403 PEER_ID_INVALID] - The provided peer id is invalid. 
+[09-Sep-25 23:19:20 - INFO] - ميــوزك بـغــداد - جـارِ الاتصـال بقاعـدة البيانـات . . .
+[09-Sep-25 23:19:20 - INFO] - ميــوزك بـغــداد - تم الاتصـال بقاعـدة البيانـات ...✓
+[09-Sep-25 23:19:20 - INFO] - ميــوزك بـغــداد - تم تحـديث السـورس ...✓
+[09-Sep-25 23:19:20 - INFO] - ميــوزك زدثــون - Git Client Found [VPS DEPLOYER]
+[09-Sep-25 23:19:20 - INFO] - ZelzalMusic.misc - Local Database Initialized.
+[09-Sep-25 23:19:20 - INFO] - ZelzalMusic.core.bot - Starting Bot
+[09-Sep-25 23:19:22 - INFO] - ZelzalMusic.misc - Sudoers Loaded.
+[09-Sep-25 23:19:22 - ERROR] - ZelzalMusic.core.bot - Bot cannot write to the log group: Telegram says: [403 PEER_ID_INVALID] - The provided peer id is invalid. 
+[09-Sep-25 23:19:22 - ERROR] - ZelzalMusic.core.bot - Failed to send message in log group: Telegram says: [403 PEER_ID_INVALID] - The provided peer id is invalid. 
+[09-Sep-25 23:19:22 - ERROR] - ZelzalMusic.core.bot - Error occurred while checking bot status: Telegram says: [403 PEER_ID_INVALID] - The provided peer id is invalid. 
+[09-Sep-25 23:19:22 - INFO] - ZelzalMusic.core.bot - MusicBot Started as shahm 
+[09-Sep-25 23:21:23 - INFO] - ميــوزك بـغــداد - جـارِ الاتصـال بقاعـدة البيانـات . . .
+[09-Sep-25 23:21:23 - INFO] - ميــوزك بـغــداد - تم الاتصـال بقاعـدة البيانـات ...✓
+[09-Sep-25 23:21:23 - INFO] - ميــوزك بـغــداد - تم تحـديث السـورس ...✓
+[09-Sep-25 23:21:23 - INFO] - ميــوزك زدثــون - Git Client Found [VPS DEPLOYER]
+[09-Sep-25 23:21:23 - INFO] - ZelzalMusic.misc - Local Database Initialized.
+[09-Sep-25 23:21:23 - INFO] - ZelzalMusic.core.bot - Starting Bot
+[09-Sep-25 23:21:24 - INFO] - ZelzalMusic.misc - Sudoers Loaded.
+[09-Sep-25 23:25:22 - INFO] - ميــوزك بـغــداد - جـارِ الاتصـال بقاعـدة البيانـات . . .
+[09-Sep-25 23:25:22 - INFO] - ميــوزك بـغــداد - تم الاتصـال بقاعـدة البيانـات ...✓
+[09-Sep-25 23:25:22 - INFO] - ميــوزك بـغــداد - تم تحـديث السـورس ...✓
+[09-Sep-25 23:25:22 - INFO] - ميــوزك زدثــون - Git Client Found [VPS DEPLOYER]
+[09-Sep-25 23:25:22 - INFO] - ZelzalMusic.misc - Local Database Initialized.
+[09-Sep-25 23:25:22 - INFO] - ZelzalMusic.core.bot - Starting Bot
+[09-Sep-25 23:25:23 - INFO] - ZelzalMusic.misc - Sudoers Loaded.
+[09-Sep-25 23:28:10 - INFO] - ميــوزك بـغــداد - جـارِ الاتصـال بقاعـدة البيانـات . . .
+[09-Sep-25 23:28:10 - INFO] - ميــوزك بـغــداد - تم الاتصـال بقاعـدة البيانـات ...✓
+[09-Sep-25 23:28:10 - INFO] - ميــوزك بـغــداد - تم تحـديث السـورس ...✓
+[09-Sep-25 23:28:10 - INFO] - ميــوزك زدثــون - Git Client Found [VPS DEPLOYER]
+[09-Sep-25 23:28:10 - INFO] - ZelzalMusic.misc - Local Database Initialized.
+[09-Sep-25 23:28:10 - INFO] - ZelzalMusic.core.bot - Starting Bot
+[09-Sep-25 23:28:11 - INFO] - ZelzalMusic.misc - Sudoers Loaded.
+[09-Sep-25 23:28:11 - ERROR] - ZelzalMusic.core.bot - Bot cannot write to the log group: Telegram says: [403 PEER_ID_INVALID] - The provided peer id is invalid. 
+[09-Sep-25 23:28:11 - ERROR] - ZelzalMusic.core.bot - Failed to send message in log group: Telegram says: [403 PEER_ID_INVALID] - The provided peer id is invalid. 
+[09-Sep-25 23:28:11 - ERROR] - ZelzalMusic.core.bot - Error occurred while checking bot status: Telegram says: [403 PEER_ID_INVALID] - The provided peer id is invalid. 
+[09-Sep-25 23:28:11 - INFO] - ZelzalMusic.core.bot - MusicBot Started as shahm 
+[09-Sep-25 23:30:05 - INFO] - ميــوزك بـغــداد - جـارِ الاتصـال بقاعـدة البيانـات . . .
+[09-Sep-25 23:30:05 - INFO] - ميــوزك بـغــداد - تم الاتصـال بقاعـدة البيانـات ...✓
+[09-Sep-25 23:30:05 - INFO] - ميــوزك بـغــداد - تم تحـديث السـورس ...✓
+[09-Sep-25 23:30:05 - INFO] - ميــوزك زدثــون - Git Client Found [VPS DEPLOYER]
+[09-Sep-25 23:30:05 - INFO] - ZelzalMusic.misc - Local Database Initialized.
+[09-Sep-25 23:30:05 - INFO] - ZelzalMusic.core.bot - Starting Bot
+[09-Sep-25 23:30:07 - INFO] - ZelzalMusic.misc - Sudoers Loaded.
+[09-Sep-25 23:30:07 - ERROR] - ZelzalMusic.core.bot - Bot cannot write to the log group: Telegram says: [403 PEER_ID_INVALID] - The provided peer id is invalid. 
+[09-Sep-25 23:30:07 - ERROR] - ZelzalMusic.core.bot - Failed to send message in log group: Telegram says: [403 PEER_ID_INVALID] - The provided peer id is invalid. 
+[09-Sep-25 23:30:07 - ERROR] - ZelzalMusic.core.bot - Error occurred while checking bot status: Telegram says: [403 PEER_ID_INVALID] - The provided peer id is invalid. 
+[09-Sep-25 23:30:07 - INFO] - ZelzalMusic.core.bot - MusicBot Started as shahm 
+[09-Sep-25 23:30:08 - INFO] - ZelzalMusic.plugins - Successfully Imported Modules...
+[09-Sep-25 23:30:08 - INFO] - ميــوزك زدثــون - جارِ تشغيل الحساب المساعد . . .
+[09-Sep-25 23:30:08 - ERROR] - ZelzalMusic.core.userbot - Assistant Account 1 has failed to access the log Group. Make sure that you have added your assistant to your log group and promoted as admin!
+[09-Sep-25 23:43:29 - INFO] - ميــوزك بـغــداد - جـارِ الاتصـال بقاعـدة البيانـات . . .
+[09-Sep-25 23:43:29 - INFO] - ميــوزك بـغــداد - تم الاتصـال بقاعـدة البيانـات ...✓
+[09-Sep-25 23:43:29 - INFO] - ميــوزك بـغــداد - تم تحـديث السـورس ...✓
+[09-Sep-25 23:43:29 - INFO] - ميــوزك زدثــون - Git Client Found [VPS DEPLOYER]
+[09-Sep-25 23:43:29 - INFO] - ZelzalMusic.misc - Local Database Initialized.
+[09-Sep-25 23:43:29 - INFO] - ZelzalMusic.core.bot - Starting Bot
+[09-Sep-25 23:43:31 - INFO] - ZelzalMusic.misc - Sudoers Loaded.
+[09-Sep-25 23:43:31 - ERROR] - ZelzalMusic.core.bot - Bot cannot write to the log group: Telegram says: [403 PEER_ID_INVALID] - The provided peer id is invalid. 
+[09-Sep-25 23:43:31 - ERROR] - ZelzalMusic.core.bot - Failed to send message in log group: Telegram says: [403 PEER_ID_INVALID] - The provided peer id is invalid. 
+[09-Sep-25 23:43:31 - ERROR] - ZelzalMusic.core.bot - Error occurred while checking bot status: Telegram says: [403 PEER_ID_INVALID] - The provided peer id is invalid. 
+[09-Sep-25 23:43:31 - INFO] - ZelzalMusic.core.bot - MusicBot Started as shahm 
+[09-Sep-25 23:43:31 - INFO] - ZelzalMusic.plugins - Successfully Imported Modules...
+[09-Sep-25 23:43:31 - INFO] - ZelzalMusic.core.userbot - Starting Assistant Clients
+[09-Sep-25 23:43:31 - INFO] - ZelzalMusic.core.userbot - Assistant Account 1 has failed to access the log Group. Make sure that you have added your assistant to your log group and promoted as admin! 
+[09-Sep-25 23:43:31 - INFO] - ZelzalMusic.core.userbot - Assistant Started as .
+[09-Sep-25 23:43:31 - INFO] - ميــوزك زدثــون - جارِ تحميل مكاتب الميوزك . . .
+
+[09-Sep-25 23:43:31 - INFO] - ZelzalMusic - تم تنصيب سورس بغداد ينجاح اذهب الى بوتك واستمتع باستخدام الاوامر
+[10-Sep-25 01:07:05 - INFO] - ميــوزك بـغــداد - جـارِ الاتصـال بقاعـدة البيانـات . . .
+[10-Sep-25 01:07:05 - INFO] - ميــوزك بـغــداد - تم الاتصـال بقاعـدة البيانـات ...✓
+[10-Sep-25 01:07:05 - INFO] - ميــوزك بـغــداد - تم تحـديث السـورس ...✓
+[10-Sep-25 01:07:05 - INFO] - ميــوزك زدثــون - Git Client Found [VPS DEPLOYER]
+[10-Sep-25 01:07:05 - INFO] - ZelzalMusic.misc - Local Database Initialized.
+[10-Sep-25 01:07:05 - INFO] - ZelzalMusic.core.bot - جارِ بدء تشغيل البوت . . .
+[10-Sep-25 01:07:07 - INFO] - ZelzalMusic.misc - Sudoers Loaded.
+[10-Sep-25 01:08:20 - INFO] - ميــوزك بـغــداد - جـارِ الاتصـال بقاعـدة البيانـات . . .
+[10-Sep-25 01:08:20 - INFO] - ميــوزك بـغــداد - تم الاتصـال بقاعـدة البيانـات ...✓
+[10-Sep-25 01:08:20 - INFO] - ميــوزك بـغــداد - تم تحـديث السـورس ...✓
+[10-Sep-25 01:08:20 - INFO] - ميــوزك زدثــون - Git Client Found [VPS DEPLOYER]
+[10-Sep-25 01:08:20 - INFO] - ZelzalMusic.misc - Local Database Initialized.
+[10-Sep-25 01:08:20 - INFO] - ZelzalMusic.core.bot - جارِ بدء تشغيل البوت . . .
+[10-Sep-25 01:08:21 - INFO] - ZelzalMusic.misc - Sudoers Loaded.
+[10-Sep-25 01:10:15 - INFO] - ميــوزك بـغــداد - جـارِ الاتصـال بقاعـدة البيانـات . . .
+[10-Sep-25 01:10:15 - INFO] - ميــوزك بـغــداد - تم الاتصـال بقاعـدة البيانـات ...✓
+[10-Sep-25 01:10:15 - INFO] - ميــوزك بـغــداد - تم تحـديث السـورس ...✓
+[10-Sep-25 01:10:15 - INFO] - ميــوزك زدثــون - Git Client Found [VPS DEPLOYER]
+[10-Sep-25 01:10:15 - INFO] - ZelzalMusic.misc - Local Database Initialized.
+[10-Sep-25 01:10:15 - INFO] - ZelzalMusic.core.bot - جارِ بدء تشغيل البوت . . .
+[10-Sep-25 01:10:17 - INFO] - ZelzalMusic.misc - Sudoers Loaded.
+[10-Sep-25 01:10:18 - ERROR] - ZelzalMusic.core.bot - ⎉︙قم باضافة البـوت مشـرفـاً بكافة الصلاحيات في مجموعـة السجـل
+[10-Sep-25 01:10:59 - INFO] - ميــوزك بـغــداد - جـارِ الاتصـال بقاعـدة البيانـات . . .
+[10-Sep-25 01:10:59 - INFO] - ميــوزك بـغــداد - تم الاتصـال بقاعـدة البيانـات ...✓
+[10-Sep-25 01:10:59 - INFO] - ميــوزك بـغــداد - تم تحـديث السـورس ...✓
+[10-Sep-25 01:10:59 - INFO] - ميــوزك زدثــون - Git Client Found [VPS DEPLOYER]
+[10-Sep-25 01:10:59 - INFO] - ZelzalMusic.misc - Local Database Initialized.
+[10-Sep-25 01:10:59 - INFO] - ZelzalMusic.core.bot - جارِ بدء تشغيل البوت . . .
+[10-Sep-25 01:11:00 - INFO] - ZelzalMusic.misc - Sudoers Loaded.
+[10-Sep-25 01:11:00 - ERROR] - ZelzalMusic.core.bot - ⎉︙قم باضافة البـوت مشـرفـاً بكافة الصلاحيات في مجموعـة السجـل
+[10-Sep-25 01:20:49 - INFO] - ميــوزك بـغــداد - جـارِ الاتصـال بقاعـدة البيانـات . . .
+[10-Sep-25 01:20:49 - INFO] - ميــوزك بـغــداد - تم الاتصـال بقاعـدة البيانـات ...✓
+[10-Sep-25 01:20:49 - INFO] - ميــوزك بـغــداد - تم تحـديث السـورس ...✓
+[10-Sep-25 01:20:49 - INFO] - ميــوزك زدثــون - Git Client Found [VPS DEPLOYER]
+[10-Sep-25 01:20:49 - INFO] - ZelzalMusic.misc - Local Database Initialized.
+[10-Sep-25 01:20:49 - INFO] - ZelzalMusic.core.bot - Starting Bot
+[10-Sep-25 01:20:50 - INFO] - ZelzalMusic.misc - Sudoers Loaded.
+[10-Sep-25 01:20:50 - ERROR] - ZelzalMusic.core.bot - Bot cannot write to the log group: Telegram says: [403 PEER_ID_INVALID] - The provided peer id is invalid. 
+[10-Sep-25 01:20:50 - ERROR] - ZelzalMusic.core.bot - Failed to send message in log group: Telegram says: [403 PEER_ID_INVALID] - The provided peer id is invalid. 
+[10-Sep-25 01:20:50 - ERROR] - ZelzalMusic.core.bot - Error occurred while checking bot status: Telegram says: [403 PEER_ID_INVALID] - The provided peer id is invalid. 
+[10-Sep-25 01:20:50 - INFO] - ZelzalMusic.core.bot - MusicBot Started as shahm 
+[10-Sep-25 01:20:50 - INFO] - ZelzalMusic.plugins - Successfully Imported Modules...
+[10-Sep-25 01:20:50 - INFO] - ZelzalMusic.core.userbot - Starting Assistant Clients
+[10-Sep-25 01:20:51 - INFO] - ZelzalMusic.core.userbot - Assistant Account 1 has failed to access the log Group. Make sure that you have added your assistant to your log group and promoted as admin! 
+[10-Sep-25 01:20:51 - INFO] - ZelzalMusic.core.userbot - Assistant Started as .
+[10-Sep-25 01:20:51 - INFO] - ميــوزك زدثــون - جارِ تحميل مكاتب الميوزك . . .
+
+[10-Sep-25 01:20:51 - INFO] - ZelzalMusic - تم تنصيب سورس بغداد ينجاح اذهب الى بوتك واستمتع باستخدام الاوامر
+[10-Sep-25 10:03:08 - INFO] - ميــوزك بـغــداد - جـارِ الاتصـال بقاعـدة البيانـات . . .
+[10-Sep-25 10:03:08 - INFO] - ميــوزك بـغــداد - تم الاتصـال بقاعـدة البيانـات ...✓
+[10-Sep-25 10:03:08 - INFO] - ميــوزك بـغــداد - تم تحـديث السـورس ...✓
+[10-Sep-25 10:03:08 - INFO] - ميــوزك زدثــون - Git Client Found [VPS DEPLOYER]
+[10-Sep-25 10:03:08 - INFO] - ZelzalMusic.misc - Local Database Initialized.
+[10-Sep-25 10:03:08 - INFO] - ZelzalMusic.core.bot - Starting Bot
+[10-Sep-25 10:03:09 - INFO] - ZelzalMusic.misc - Sudoers Loaded.
+[10-Sep-25 10:03:10 - ERROR] - ZelzalMusic.core.bot - Bot cannot write to the log group: Telegram says: [403 PEER_ID_INVALID] - The provided peer id is invalid. 
+[10-Sep-25 10:03:10 - ERROR] - ZelzalMusic.core.bot - Failed to send message in log group: Telegram says: [403 PEER_ID_INVALID] - The provided peer id is invalid. 
+[10-Sep-25 10:03:10 - ERROR] - ZelzalMusic.core.bot - Error occurred while checking bot status: Telegram says: [403 PEER_ID_INVALID] - The provided peer id is invalid. 
+[10-Sep-25 10:03:10 - INFO] - ZelzalMusic.core.bot - MusicBot Started as shahm 
+[10-Sep-25 10:03:10 - INFO] - ZelzalMusic.plugins - Successfully Imported Modules...
+[10-Sep-25 10:03:10 - INFO] - ZelzalMusic.core.userbot - Starting Assistant Clients
+[10-Sep-25 10:03:10 - INFO] - ZelzalMusic.core.userbot - Assistant Account 1 has failed to access the log Group. Make sure that you have added your assistant to your log group and promoted as admin! 
+[10-Sep-25 10:03:10 - INFO] - ZelzalMusic.core.userbot - Assistant Started as .
+[10-Sep-25 10:03:10 - INFO] - ميــوزك زدثــون - جارِ تحميل مكاتب الميوزك . . .
+
+[10-Sep-25 10:03:10 - INFO] - ZelzalMusic - تم تنصيب سورس بغداد ينجاح اذهب الى بوتك واستمتع باستخدام الاوامر
+[10-Sep-25 13:40:41 - INFO] - ميــوزك بـغــداد - جـارِ الاتصـال بقاعـدة البيانـات . . .
+[10-Sep-25 13:40:41 - INFO] - ميــوزك بـغــداد - تم الاتصـال بقاعـدة البيانـات ...✓
+[10-Sep-25 13:40:41 - INFO] - ميــوزك بـغــداد - تم تحـديث السـورس ...✓
+[10-Sep-25 13:40:41 - INFO] - ميــوزك زدثــون - Git Client Found [VPS DEPLOYER]
+[10-Sep-25 13:40:41 - INFO] - ZelzalMusic.misc - Local Database Initialized.
+[10-Sep-25 13:40:41 - INFO] - ميــوزك بحر - جارِ بدء تشغيل البوت . . .
+[10-Sep-25 13:40:42 - INFO] - ZelzalMusic.misc - Sudoers Loaded.
+[10-Sep-25 13:40:43 - INFO] - ميــوزك بحر -  تم بدء تشغيل البوت بـوت المرحلة الثانية  ...✓
+[10-Sep-25 13:40:43 - INFO] - ZelzalMusic.plugins - Successfully Imported Modules...
+[10-Sep-25 13:40:43 - INFO] - ZelzalMusic.core.userbot - Starting Assistant Clients
+[10-Sep-25 13:40:44 - INFO] - ZelzalMusic.core.userbot - Assistant Started as .
+[10-Sep-25 13:40:44 - INFO] - ميــوزك زدثــون - جارِ تحميل مكاتب الميوزك . . .
+
+[10-Sep-25 13:40:46 - INFO] - ZelzalMusic - تم تنصيب سورس بغداد ينجاح اذهب الى بوتك واستمتع باستخدام الاوامر
+[10-Sep-25 15:09:26 - INFO] - ميــوزك بـغــداد - جـارِ الاتصـال بقاعـدة البيانـات . . .
+[10-Sep-25 15:09:26 - INFO] - ميــوزك بـغــداد - تم الاتصـال بقاعـدة البيانـات ...✓
+[10-Sep-25 15:09:26 - INFO] - ميــوزك بـغــداد - تم تحـديث السـورس ...✓
+[10-Sep-25 15:09:26 - INFO] - ميــوزك زدثــون - Git Client Found [VPS DEPLOYER]
+[10-Sep-25 15:09:26 - INFO] - ZelzalMusic.misc - Local Database Initialized.
+[10-Sep-25 15:09:26 - INFO] - ميــوزك بحر - جارِ بدء تشغيل البوت . . .
+[10-Sep-25 15:09:27 - INFO] - ZelzalMusic.misc - Sudoers Loaded.
+[10-Sep-25 15:12:14 - INFO] - ميــوزك بـغــداد - جـارِ الاتصـال بقاعـدة البيانـات . . .
+[10-Sep-25 15:12:14 - INFO] - ميــوزك بـغــداد - تم الاتصـال بقاعـدة البيانـات ...✓
+[10-Sep-25 15:12:14 - INFO] - ميــوزك بـغــداد - تم تحـديث السـورس ...✓
+[10-Sep-25 15:12:14 - INFO] - ميــوزك زدثــون - Git Client Found [VPS DEPLOYER]
+[10-Sep-25 15:12:14 - INFO] - ZelzalMusic.misc - Local Database Initialized.
+[10-Sep-25 15:12:14 - INFO] - ميــوزك بحر - جارِ بدء تشغيل البوت . . .
+[10-Sep-25 15:12:15 - INFO] - ZelzalMusic.misc - Sudoers Loaded.
+[10-Sep-25 15:12:17 - INFO] - ميــوزك بحر -  تم بدء تشغيل البوت بـوت المرحلة الثانية  ...✓
+[10-Sep-25 15:12:17 - INFO] - ZelzalMusic.plugins - Successfully Imported Modules...
+[10-Sep-25 15:12:17 - INFO] - ZelzalMusic.core.userbot - Starting Assistant Clients
+[10-Sep-25 15:12:17 - INFO] - ZelzalMusic.core.userbot - Assistant Started as .
+[10-Sep-25 15:12:17 - INFO] - ميــوزك زدثــون - جارِ تحميل مكاتب الميوزك . . .
+
+[10-Sep-25 15:12:20 - INFO] - ZelzalMusic - تم تنصيب سورس بغداد ينجاح اذهب الى بوتك واستمتع باستخدام الاوامر
+[10-Sep-25 15:26:07 - INFO] - ميــوزك بـغــداد - جـارِ الاتصـال بقاعـدة البيانـات . . .
+[10-Sep-25 15:26:07 - INFO] - ميــوزك بـغــداد - تم الاتصـال بقاعـدة البيانـات ...✓
+[10-Sep-25 15:26:07 - INFO] - ميــوزك بـغــداد - تم تحـديث السـورس ...✓
+[10-Sep-25 15:26:07 - INFO] - ميــوزك زدثــون - Git Client Found [VPS DEPLOYER]
+[10-Sep-25 15:26:07 - INFO] - ZelzalMusic.misc - Local Database Initialized.
+[10-Sep-25 15:26:07 - INFO] - ميــوزك بحر - جارِ بدء تشغيل البوت . . .
+[10-Sep-25 15:26:08 - INFO] - ZelzalMusic.misc - Sudoers Loaded.
+[10-Sep-25 15:26:08 - INFO] - ميــوزك بحر -  تم بدء تشغيل البوت بـوت المرحلة الثانية  ...✓
+[10-Sep-25 15:26:08 - INFO] - ZelzalMusic.plugins - Successfully Imported Modules...
+[10-Sep-25 15:26:08 - INFO] - ZelzalMusic.core.userbot - Starting Assistant Clients
+[10-Sep-25 15:26:08 - INFO] - ZelzalMusic.core.userbot - Assistant Started as .
+[10-Sep-25 15:26:08 - INFO] - ميــوزك زدثــون - جارِ تحميل مكاتب الميوزك . . .
+
+[10-Sep-25 15:26:10 - INFO] - ZelzalMusic - تم تنصيب سورس بغداد ينجاح اذهب الى بوتك واستمتع باستخدام الاوامر
